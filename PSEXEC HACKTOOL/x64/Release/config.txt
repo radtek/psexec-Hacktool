@@ -1,0 +1,9 @@
+urls:
+google https://www.google.com
+gmail https://www.gmail.com
+gmail https://www.gmail.com
+
+saves:
+192.168.1.217 ori 123 getShell
+oripc ori 123 openURL
+10.0.0.138 user 123 closeChrome

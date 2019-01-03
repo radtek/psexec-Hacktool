@@ -1,0 +1,8 @@
+saves:
+[ip] [username] [password] [attackType openURL, getShell, closeChrome, closeProcess]
+10.0.0.138 user p@ssw0rd openURL
+
+urls:
+[name] [URL]
+OriChannel https://www.youtube.com/channel/UCS7HaiFfEvvMIHGaOz1BF7Q/ 
+

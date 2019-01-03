@@ -1,0 +1,11 @@
+urls:
+	google https://www.google.com
+	gmail https://www.gmail.com
+	youtube https://www.youtube.com
+	2nagarim https://youtu.be/DmBQncDKWWo
+	stamnagar https://youtu.be/r-YUZR8LDBk
+	r3 https://youtu.be/l2DUUJP_77I
+
+saves:
+	192.168.1.217 ori 123 getShell
+	oripc ori 123 openURL

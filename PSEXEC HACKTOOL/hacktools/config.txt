@@ -1,0 +1,7 @@
+urls:
+google google.com
+youtube youtube.com
+
+saves:
+192.168.1.217 ori 123 openURL
+oripc ori 123 getShell
